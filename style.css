@@ -16,6 +16,12 @@ body {
     height: 700px;
 
   }
+  
+  .servive {
+    padding: 80px 120px !important;
+    background-color: #E6ECDB !important;
+  }
+
 
   .person {
       border: 10px solid transparent;
