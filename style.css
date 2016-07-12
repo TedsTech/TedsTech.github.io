@@ -151,4 +151,10 @@ body {
   textarea {
       resize: none;
   }
+  
+  .copyright1{
+    font-size: 0.8em;
+    padding: 0;
+
+  }
 
